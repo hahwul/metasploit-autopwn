@@ -1,6 +1,6 @@
 # metasploit-db_autopwn
 
-metasploit plugin for easy exploit & vulnerability attack.br>
+metasploit plugin for easy exploit & vulnerability attack.<br>
 But, the db_autopwn command is removed from official distribution.<br>
 
 ## Install
