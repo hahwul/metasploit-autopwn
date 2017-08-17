@@ -6,7 +6,7 @@ But, the db_autopwn command is removed from official distribution.<br>
 ## Install
 move dB_autopwn.rb file into metasploit plugin directory after clone this repo<br>
 
-    git clone https://github.com/hahwul/metasploit-db_autopwn<br>
+    git clone https://github.com/hahwul/metasploit-db_autopwn
 
 
 <br>
@@ -14,7 +14,7 @@ or <br>
 <br>
 download db_autopwn.rb file in metasploit plugin directory
 
-    wget https://raw.githubusercontent.com/hahwul/metasploit-db_autopwn/master/db_autopwn.rb<br>
+    wget https://raw.githubusercontent.com/hahwul/metasploit-db_autopwn/master/db_autopwn.rb
 
 ## Usage
 
