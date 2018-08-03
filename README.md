@@ -4,17 +4,35 @@ metasploit plugin for easy exploit & vulnerability attack.<br>
 But, the db_autopwn command is removed from official distribution.<br>
 
 ## Install
-move dB_autopwn.rb file into metasploit plugin directory after clone this repo<br>
+1. Clone this repo or download "db_autopwn.rb" file<br>
+- clone this repository
 
-    git clone https://github.com/hahwul/metasploit-db_autopwn
-
+```
+#> git clone https://github.com/hahwul/metasploit-autopwn
+```
 
 <br>
 or <br>
 <br>
-download db_autopwn.rb file in metasploit plugin directory
 
-    wget https://raw.githubusercontent.com/hahwul/metasploit-db_autopwn/master/db_autopwn.rb
+- download db_autopwn.rb file in metasploit plugin directory
+
+```
+#> wget https://raw.githubusercontent.com/hahwul/metasploit-autopwn/master/db_autopwn.rb
+```
+
+2. Move dB_autopwn.rb file into metasploit plugin directory
+
+```
+#> cd metasploit-autopwn
+```
+```
+#> cp db_autopwn.rb /usr/share/metasploit-framework/plugins
+```
+or (install path)
+```
+#> cp db_autopwn.rb /opt/metasploit-framework/plugins
+```
 
 ## Usage
 
