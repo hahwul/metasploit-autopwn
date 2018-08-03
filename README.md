@@ -4,7 +4,7 @@ metasploit plugin for easy exploit & vulnerability attack.<br>
 But, the db_autopwn command is removed from official distribution.<br>
 
 ## Install
-1. Clone this repo or download "db_autopwn.rb" file<br>
+### 1. Clone this repo or download "db_autopwn.rb" file<br>
 - clone this repository
 
 ```
@@ -21,7 +21,7 @@ or <br>
 #> wget https://raw.githubusercontent.com/hahwul/metasploit-autopwn/master/db_autopwn.rb
 ```
 
-2. Move dB_autopwn.rb file into metasploit plugin directory
+### 2. Move dB_autopwn.rb file into metasploit plugin directory
 
 ```
 #> cd metasploit-autopwn
