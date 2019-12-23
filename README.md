@@ -50,4 +50,8 @@ or (install path)
     [*] (5/1301 [0 sessions]): Launching exploit/linux/http/advantech_switch_bash_env_exec against 192.168.56.44:80...
 
 
+## Donate
 
+I like coffee! I'm a coffee addict.<br>
+<a href="https://www.paypal.me/hahwul"><img src="https://www.paypalobjects.com/digitalassets/c/website/logo/full-text/pp_fc_hl.svg" height="50px"></a>
+<a href="https://www.buymeacoffee.com/hahwul"><img src="https://cdn.buymeacoffee.com/buttons/default-black.png" alt="Buy Me A Coffee" height="50px"></a>
